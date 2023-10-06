@@ -4,10 +4,11 @@
 
 update: adding questions and examples to each readme files, so that questions statements would be included in each readme files.
 
-Categories:\
-<span style="color:green">Easy</span> |
-<span style="color:orange">Medium</span> | 
-<span style="color:red">Hard</span>
+Categories:
+
+![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) `Easy` 
+![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) `Medium` 
+![#ff0000](https://placehold.co/1x1/ff0000/ff0000.png) `Hard` 
 
 ##### Problem Solved: 75 / 75
 
@@ -16,7 +17,7 @@ Categories:\
 -   [ ] [Linked-List](#linked-list) (5)
 -   [ ] [String](#string) (8)
 -   [ ] [Binary Tree](#binary-tree) (9)
--   [ ] [Binary Search](#binary-search) (5)
+-   [ ] [Binary Search](#binary-search-tree) (5)
 -   [ ] [Graph](#graph) (10)
 -   [ ] [Dynamic Programming](#dynamic-programming) (5)
 -   [ ] [Binary Search Tree](#binary-search-tree) (3)
@@ -29,10 +30,10 @@ Categories:\
 
 ### Array
 
--   [ ] [<span style="color:green">Two Sum</span>](https://leetcode.com/problems/two-sum): [Solution](/Array/1-TwoSum)
--   [ ] [<span style="color:green">Best Time to Buy and Sell Stock</span>](https://leetcode.com/problems/best-time-to-buy-and-sell-stock): [Solution](/Array/121-BestTimetoBuyandSellStock/)
--   [ ] [<span style="color:green">Contains Duplicate</span>](https://leetcode.com/problems/contains-duplicate): [Solution](/Array/217-ContainsDuplicate/)
--   [x] [<span style="color:green">Majority Element</span>](https://leetcode.com/problems/majority-element): [Solution](/Array/169-MajorityElement/)
+-   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Two Sum](https://leetcode.com/problems/two-sum): [Solution](/Array/1-TwoSum)
+-   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock): [Solution](/Array/121-BestTimetoBuyandSellStock/) 
+-   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution](/Array/217-ContainsDuplicate/)
+-   [x] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Majority Element](https://leetcode.com/problems/majority-element): [Solution](/Array/169-MajorityElement/)
 -   [ ] [Insert Interval](https://leetcode.com/problems/insert-interval): [Solution](/Array/57-InsertInterval/)
 -   [ ] [3Sum](https://leetcode.com/problems/3sum/): [Solution](/Array/15-3Sum/)
 -   [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self): [Solution](/Array/238-ProductofArrayExceptSelf/)
@@ -92,7 +93,7 @@ Categories:\
 
 ---
 
-### Binary Search
+### Binary Search Tree
 
 -   [ ] [Binary Search](https://leetcode.com/problems/binary-search): [Solution](/Binary%20Search/704-BinarySearch/)
 -   [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version): [Solution](/Binary%20Search/278-FirstBadVersion/)
