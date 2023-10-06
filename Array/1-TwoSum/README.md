@@ -1,8 +1,6 @@
 # Two Sum 
 ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) `Easy` 
 
-Problem can be found in [here](https://leetcode.com/problems/two-sum/)!
-
 > Given an array of integers **nums** and an integer **target**, return indices of the two numbers such that they add up to **target**. <br><br>
 You may assume that each input would have exactly one solution, and you may not use the same element twice. <br><br>
 You can return the answer in any order.
@@ -27,6 +25,8 @@ Constraints:
 - Only one valid answer exists.
 
 Follow-up: Can you come up with an algorithm that is less than **$O(n^2)$** time complexity?
+
+Problem can be found in [here](https://leetcode.com/problems/two-sum/)!
 
 ## Solution
 

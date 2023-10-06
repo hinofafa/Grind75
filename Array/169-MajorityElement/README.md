@@ -1,7 +1,5 @@
 # Majority Element
-### <span style="color:green">Easy</span> 
-
-Problem can be found in [here](https://leetcode.com/problems/majority-element/)!
+![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) `Easy` 
 
 > Given an array **nums** of size **n**, return the majority element. <br><br>
 The majority element is the element that appears more than **⌊n / 2⌋** times. You may assume that the majority element always exists in the array.
@@ -19,9 +17,10 @@ Constraints:
 - n == nums.length
 - $1$ <= n <= $5 * 10^4$
 - $-10^9$ <= nums[i] <= $10^9$
- 
 
 Follow-up: Could you solve the problem in linear time and in $O(1)$ space?
+
+Problem can be found in [here](https://leetcode.com/problems/majority-element/)!
 
 ## Solution
 ### [Basic Solution](/Array/169-MajorityElement/BasicSolution.py): Brute Force

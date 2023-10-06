@@ -1,7 +1,5 @@
 # Contains Duplicate
-### <span style="color:green">Easy</span> 
-
-Problem can be found in [here](https://leetcode.com/problems/contains-duplicate)!
+![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) `Easy` 
 
 > Given an integer array **nums**, return **true** if any value appears at least twice in the array, and return **false** if every element is distinct.
 
@@ -20,6 +18,8 @@ Output: true
 Constraints:
 - $1$ <= nums.length <= $10^5$
 - $-10^9$ <= nums[i] <= $10^9$
+
+Problem can be found in [here](https://leetcode.com/problems/contains-duplicate)!
 
 ## Solution
 ### [Basic Solution](/Array/217-ContainsDuplicate/basicSolution.py): Brute Force

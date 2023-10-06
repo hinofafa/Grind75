@@ -1,7 +1,5 @@
 # Best Time to Buy and Sell Stock
-### <span style="color:green">Easy</span> 
-
-Problem can be found in [here](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)!
+![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) `Easy` 
 
 > You are given an array **prices** where **prices[i]** is the price of a given stock on the **$i^{th}$** day. <br><br>
 You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock. <br><br>
@@ -23,6 +21,8 @@ Explanation: In this case, no transactions are done and the max profit = 0.
 Constraints:
 - $1$ <= prices.length <= $10^5$
 - $0$ <= prices[i] <= $10^4$
+
+Problem can be found in [here](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)!
 
 ## Solution
 
