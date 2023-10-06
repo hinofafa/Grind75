@@ -1,7 +1,27 @@
 # Contains Duplicate
+### <span style="color:green">Easy</span> 
 
 Problem can be found in [here](https://leetcode.com/problems/contains-duplicate)!
 
+> Given an integer array **nums**, return **true** if any value appears at least twice in the array, and return **false** if every element is distinct.
+
+Example 1:
+> Input: nums = [1,2,3,1]\
+Output: true
+
+Example 2:
+> Input: nums = [1,2,3,4]\
+Output: false
+
+Example 3:
+> Input: nums = [1,1,1,3,3,4,3,2,4,2]\
+Output: true
+
+Constraints:
+- $1$ <= nums.length <= $10^5$
+- $-10^9$ <= nums[i] <= $10^9$
+
+## Solution
 ### [Basic Solution](/Array/217-ContainsDuplicate/basicSolution.py): Brute Force
 
 ```python
@@ -14,8 +34,7 @@ def containsDuplicate(nums: List[int]) -> bool:
     return False
 ```
 
-Time Complexity: ![O(n^2)](<https://latex.codecogs.com/svg.image?\inline&space;O(n^2)>), Space Complexity: ![O(1)](<https://latex.codecogs.com/svg.image?\inline&space;O(1)>)
-
+Time Complexity: $O(n^2)$, Space Complexity: O(1)
 ### [Improved Solution](/Array/217-ContainsDuplicate/improvedSolution.py): Sort
 
 ```python
@@ -31,7 +50,7 @@ def containsDuplicate(nums: List[int]) -> bool:
     return False
 ```
 
-Time Complexity: ![O(nlogn)](<https://latex.codecogs.com/svg.image?\inline&space;O(nlogn)>), Space Complexity: ![O(1)](<https://latex.codecogs.com/svg.image?\inline&space;O(1)>)
+Time Complexity: $O(nlogn)$, Space Complexity: $O(1)$
 
 ### [Optimized Solution](/Array/217-ContainsDuplicate/optimizedSolution.py): Set or Hash Table
 
@@ -47,4 +66,4 @@ def containsDuplicate(nums: List[int]) -> bool:
     return False
 ```
 
-Time Complexity: ![O(n)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>), Space Complexity: ![O(n)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>)
+Time Complexity: $O(n)$, Space Complexity: $O(n)$
