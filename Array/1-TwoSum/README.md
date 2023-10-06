@@ -1,5 +1,5 @@
 # Two Sum 
-### <span style="color:green">Easy</span> 
+![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) `Easy` 
 
 Problem can be found in [here](https://leetcode.com/problems/two-sum/)!
 
