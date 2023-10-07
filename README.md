@@ -30,29 +30,29 @@ Categories:
 
 ### Array
 
--   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Two Sum](https://leetcode.com/problems/two-sum): [Solution](/Array/1-TwoSum)
--   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock): [Solution](/Array/121-BestTimetoBuyandSellStock/) 
--   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution](/Array/217-ContainsDuplicate/)
--   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Majority Element](https://leetcode.com/problems/majority-element): [Solution](/Array/169-MajorityElement/)
--   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Insert Interval](https://leetcode.com/problems/insert-interval): [Solution](/Array/57-InsertInterval/)
--   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [3Sum](https://leetcode.com/problems/3sum/): [Solution](/Array/15-3Sum/)
--   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self): [Solution](/Array/238-ProductofArrayExceptSelf/)
--   [ ] [Combination Sum](https://leetcode.com/problems/combination-sum): [Solution](/Array/39-CombinationSum/)
--   [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals): [Solution](/Array/56-MergeIntervals/)
--   [ ] [Sort Colors](https://leetcode.com/problems/sort-colors): [Solution](/Array/75-SortColors/): [Solution](/Array/75-SortColors/)
--   [ ] [Container With Most Water](https://leetcode.com/problems/container-with-most-water): [Solution](/Array/11-ContainerWithMostWater/)
+-   [X] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Two Sum](https://leetcode.com/problems/two-sum): [Solution](/Array/1-TwoSum)
+-   [X] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock): [Solution](/Array/121-BestTimetoBuyandSellStock/) 
+-   [X] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution](/Array/217-ContainsDuplicate/)
+-   [X] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Majority Element](https://leetcode.com/problems/majority-element): [Solution](/Array/169-MajorityElement/)
+-   [X] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Insert Interval](https://leetcode.com/problems/insert-interval): [Solution](/Array/57-InsertInterval/)
+-   [X] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [3Sum](https://leetcode.com/problems/3sum/): [Solution](/Array/15-3Sum/)
+-   [X] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self): [Solution](/Array/238-ProductofArrayExceptSelf/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Combination Sum](https://leetcode.com/problems/combination-sum): [Solution](/Array/39-CombinationSum/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Merge Intervals](https://leetcode.com/problems/merge-intervals): [Solution](/Array/56-MergeIntervals/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Sort Colors](https://leetcode.com/problems/sort-colors): [Solution](/Array/75-SortColors/): [Solution](/Array/75-SortColors/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Container With Most Water](https://leetcode.com/problems/container-with-most-water): [Solution](/Array/11-ContainerWithMostWater/)
 
 ---
 
 ### Stack
 
--   [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses): [Solution](/Stack/20-ValidParentheses/)
--   [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks): [Solution](/Stack/232-ImplementQueueusingStacks/)
--   [ ] [Min Stack](https://leetcode.com/problems/min-stack): [Solution](/Stack/232-ImplementQueueusingStacks/): [Solution](/Stack/155-MinStack/)
--   [ ] [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation): [Solution](/Stack/150-EvaluateReversePolishNotation/)
--   [ ] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water): [Solution](/Stack/42-TrappingRainWater/)
--   [ ] [Basic Calculator](https://leetcode.com/problems/basic-calculator): [Solution](/Stack/224-BasicCalculator/)
--   [ ] [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram): [Solution](/Stack/84-LargestRectangleinHistogram/)
+-   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Valid Parentheses](https://leetcode.com/problems/valid-parentheses): [Solution](/Stack/20-ValidParentheses/)
+-   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks): [Solution](/Stack/232-ImplementQueueusingStacks/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Min Stack](https://leetcode.com/problems/min-stack): [Solution](/Stack/232-ImplementQueueusingStacks/): [Solution](/Stack/155-MinStack/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation): [Solution](/Stack/150-EvaluateReversePolishNotation/)
+-   [ ] ![#ff0000](https://placehold.co/1x1/ff0000/ff0000.png) [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water): [Solution](/Stack/42-TrappingRainWater/)
+-   [ ] ![#ff0000](https://placehold.co/1x1/ff0000/ff0000.png) [Basic Calculator](https://leetcode.com/problems/basic-calculator): [Solution](/Stack/224-BasicCalculator/)
+-   [ ] ![#ff0000](https://placehold.co/1x1/ff0000/ff0000.png) [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram): [Solution](/Stack/84-LargestRectangleinHistogram/)
 
 ---
 
