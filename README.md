@@ -58,38 +58,38 @@ Categories:
 
 ### Linked List
 
--   [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists): [Solution](/Linked%20List/21-MergeTwoSortedLists/)
--   [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle): [Solution](/Linked%20List/141-LinkedListCycle/)
--   [ ] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list): [Solution](/Linked%20List/206-Reverse-Linked-List/)
--   [ ] [Middle of the Linked List](https://leetcode.com/problems/remove-nth-node-from-end-of-list): [Solution](/Linked%20List/876-MiddleoftheLinkedList/)
--   [ ] [LRU Cache](https://leetcode.com/problems/reorder-list): [Solution](/Linked%20List/146-LRUCache/)
+-   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists): [Solution](/Linked%20List/21-MergeTwoSortedLists/)
+-   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle): [Solution](/Linked%20List/141-LinkedListCycle/)
+-   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list): [Solution](/Linked%20List/206-Reverse-Linked-List/)
+-   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/): [Solution](/Linked%20List/876-MiddleoftheLinkedList/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [LRU Cache](https://leetcode.com/problems/lru-cache/): [Solution](/Linked%20List/146-LRUCache/) 
 
 ---
 
 ### String
 
--   [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome): [Solution](/String/125-ValidPalindrome/)
--   [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram): [Solution](/String/242-ValidAnagram/)
--   [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome): [Solution](/String/409-LongestPalindrome/)
--   [ ] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters): [Solution](/String/3-LongestSubstringWithoutRepeatingCharacters/)
--   [ ] [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi): [Solution](</String/8-StringtoInteger(atoi)/>)
--   [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring): [Solution](/String/5-LongestPalindromicSubstring/)
--   [ ] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string): [Solution](/String/438-FindAllAnagramsinaString/)
--   [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring): [Solution](/String/76-MinimumWindowSubstring/)
+-   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Valid Palindrome](https://leetcode.com/problems/valid-palindrome): [Solution](/String/125-ValidPalindrome/)
+-   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Valid Anagram](https://leetcode.com/problems/valid-anagram): [Solution](/String/242-ValidAnagram/)
+-   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Longest Palindrome](https://leetcode.com/problems/longest-palindrome): [Solution](/String/409-LongestPalindrome/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters): [Solution](/String/3-LongestSubstringWithoutRepeatingCharacters/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi): [Solution](</String/8-StringtoInteger(atoi)/>)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring): [Solution](/String/5-LongestPalindromicSubstring/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string): [Solution](/String/438-FindAllAnagramsinaString/)
+-   [ ] ![#ff0000](https://placehold.co/1x1/ff0000/ff0000.png) [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring): [Solution](/String/76-MinimumWindowSubstring/)
 
 ---
 
 ### Binary Tree
 
--   [ ] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree): [Solution](/Binary%20Tree/226-InvertBinaryTree/)
--   [ ] [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree): [Solution](/Binary%20Tree/110-BalancedBinaryTree/)
--   [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree): [Solution](/Binary%20Tree/543-DiameterofBinaryTree/)
--   [ ] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree): [Solution](/Binary%20Tree/104-MaximumDepthofBinaryTree/)
--   [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal): [Solution](/Binary%20Tree/102-BinaryTreeLevelOrderTraversal/)
--   [ ] [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree): [Solution](/Binary%20Tree/236-LowestCommonAncestorofaBinaryTree/)
--   [ ] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view): [Solution](/Binary%20Tree/199-BinaryTreeRightSideView/)
--   [ ] [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal): [Solution](/Binary%20Tree/105-ConstructBinaryTreefromPreorderandInorderTraversal/)
--   [ ] [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree): [Solution](/Binary%20Tree/297-SerializeandDeserializeBinaryTree/)
+-   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree): [Solution](/Binary%20Tree/226-InvertBinaryTree/)
+-   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree): [Solution](/Binary%20Tree/110-BalancedBinaryTree/)
+-   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree): [Solution](/Binary%20Tree/543-DiameterofBinaryTree/)
+-   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree): [Solution](/Binary%20Tree/104-MaximumDepthofBinaryTree/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal): [Solution](/Binary%20Tree/102-BinaryTreeLevelOrderTraversal/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree): [Solution](/Binary%20Tree/236-LowestCommonAncestorofaBinaryTree/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view): [Solution](/Binary%20Tree/199-BinaryTreeRightSideView/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal): [Solution](/Binary%20Tree/105-ConstructBinaryTreefromPreorderandInorderTraversal/)
+-   [ ] ![#ff0000](https://placehold.co/1x1/ff0000/ff0000.png) [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree): [Solution](/Binary%20Tree/297-SerializeandDeserializeBinaryTree/)
 
 ---
 

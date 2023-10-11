@@ -1,7 +1,34 @@
 # Balanced Binary Tree
+![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) `Easy`
+
+> Given a binary tree, determine if it is height-balanced.
+
+Example 1:
+
+![alt image](https://assets.leetcode.com/uploads/2020/10/06/balance_1.jpg)
+
+> Input: root = [3,9,20,null,null,15,7]\
+Output: true
+
+Example 2:
+
+![alt image](https://assets.leetcode.com/uploads/2020/10/06/balance_2.jpg)
+
+> Input: root = [1,2,2,3,3,null,null,4,4]\
+Output: false
+
+Example 3:
+> Input: root = []\
+Output: true
+ 
+
+Constraints:
+- The number of nodes in the tree is in the range [0, 5000].
+- $-10^4$ <= Node.val <= $10^4$
 
 Problem can be found in [here](https://leetcode.com/problems/balanced-binary-tree)!
 
+## Solution
 ```python
 # Definition for a binary tree node.
 class TreeNode:
@@ -33,6 +60,6 @@ class Solution:
         return self.memo[node]
 ```
 
-Explanation: The definition of a balanced binary tree is "a binary tree in which the left and right subtrees of every node differ in height by no more than 1." Therefore, we need to check whether the height difference between the left and right subtrees is no more than 1 for every tree node. To do so, we can simply iterate the whole binary tree through depth-first search (DFS). With a hash table, we can improve the time complexity to ![O(n)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>) instead of ![O(n^2)](<https://latex.codecogs.com/svg.image?\inline&space;O(n^2)>).
+Explanation: The definition of a balanced binary tree is "a binary tree in which the left and right subtrees of every node differ in height by no more than 1." Therefore, we need to check whether the height difference between the left and right subtrees is no more than 1 for every tree node. To do so, we can simply iterate the whole binary tree through depth-first search (DFS). With a hash table, we can improve the time complexity to $O(n)$ instead of $O(n^2)$.
 
-Time Complexity: ![O(n)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>), Space Complexity: ![O(h)](<https://latex.codecogs.com/svg.image?\inline&space;O(h)>) for the recursive stack, where h is the height of the binary tree. In worst case, h will be n for an unbalanced binary tree.
+Time Complexity: $O(n)$, Space Complexity: $O(h)$ for the recursive stack, where h is the height of the binary tree. In worst case, h will be n for an unbalanced binary tree.

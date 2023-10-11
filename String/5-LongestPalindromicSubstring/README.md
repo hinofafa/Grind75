@@ -1,7 +1,24 @@
 # Longest Palindromic Substring
+![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) `Medium`
+
+> Given a string s, return the longest palindromic substring in s.
+
+Example 1:
+> Input: s = "babad"\
+Output: "bab"\
+Explanation: "aba" is also a valid answer.
+
+Example 2:
+> Input: s = "cbbd"\
+Output: "bb"
+
+Constraints:
+- $1$ <= s.length <= $1000$
+- s consist of only digits and English letters.
 
 Problem can be found in [here](https://leetcode.com/problems/longest-palindromic-substring)!
 
+## Solution
 ### [Solution](/String/5-LongestPalindromicSubstring/solution.py): Dynamic Programming
 
 ```python
@@ -23,4 +40,4 @@ def longestPalindrome(s: str) -> str:
     return longest_palindrome
 ```
 
-Time Complexity: ![O(n^2)](<https://latex.codecogs.com/svg.image?\inline&space;O(n^2)>), Space Complexity: ![O(n^2)](<https://latex.codecogs.com/svg.image?\inline&space;O(n^2)>)
+Time Complexity: $O(n^2)$, Space Complexity: $O(n^2)$

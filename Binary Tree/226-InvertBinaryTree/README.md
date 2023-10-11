@@ -1,7 +1,33 @@
 # Inveret Binary Tree
+![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) `Easy`
+
+Given the root of a binary tree, invert the tree, and return its root.
+
+Example 1:
+
+![alt image](https://assets.leetcode.com/uploads/2021/03/14/invert1-tree.jpg)
+
+> Input: root = [4,2,7,1,3,6,9]\
+Output: [4,7,2,9,6,3,1]
+
+Example 2:
+
+![alt image](https://assets.leetcode.com/uploads/2021/03/14/invert2-tree.jpg)
+
+> Input: root = [2,1,3]\
+Output: [2,3,1]
+
+Example 3:
+> Input: root = []\
+Output: []
+ 
+Constraints:
+- The number of nodes in the tree is in the range [0, 100].
+- $-100$ <= Node.val <= $100$
 
 Problem can be found in [here](https://leetcode.com/problems/invert-binary-tree)!
 
+## Solution
 ```python
 # Definition for a binary tree node.
 class TreeNode:
@@ -41,4 +67,4 @@ class Solution:
         return root
 ```
 
-Time Complexity: ![O(n)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>), Space Complexity: ![O(h)](<https://latex.codecogs.com/svg.image?\inline&space;O(h)>) for the recursive stack, where h is the height of the binary tree. In worst case, h will be n for an unbalanced binary tree.
+Time Complexity: $O(n)$, Space Complexity: $O(h)$ for the recursive stack, where h is the height of the binary tree. In worst case, h will be n for an unbalanced binary tree.
