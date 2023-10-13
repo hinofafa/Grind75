@@ -1,7 +1,33 @@
 # Course Schedule
+![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) `Medium`
+
+> There are a total of numCourses courses you have to take, labeled from 0 to numCourses - 1. You are given an array prerequisites where prerequisites[i] = [ai, bi] indicates that you must take course bi first if you want to take course ai. <br><br>
+For example, the pair [0, 1], indicates that to take course 0 you have to first take course 1. <br><br>
+Return true if you can finish all courses. Otherwise, return false.
+
+
+Example 1:
+> Input: numCourses = 2, prerequisites = [[1,0]]\
+Output: true\
+Explanation: There are a total of 2 courses to take. \
+To take course 1 you should have finished course 0. So it is possible.
+
+Example 2:
+> Input: numCourses = 2, prerequisites = [[1,0],[0,1]]\
+Output: false\
+Explanation: There are a total of 2 courses to take. \
+To take course 1 you should have finished course 0, and to take course 0 you should also have finished course 1. So it is impossible.
+
+Constraints:
+- $1$ <= numCourses <= $2000$
+- $0$ <= prerequisites.length <= $5000$
+- prerequisites[i].length == $2$
+- $0$ <= ai, bi < numCourses
+- All the pairs prerequisites[i] are unique.
 
 Problem can be found in [here](https://leetcode.com/problems/course-schedule)!
 
+## Solution
 ### [Solution](/Graph/207-CourseSchedule/solution.py): Depth-First Search
 
 ```python
@@ -41,4 +67,4 @@ def canFinish(numCourses: int, prerequisites: List[List[int]]) -> bool:
 
 Explanation: By performing a DFS, we can determine whether this graph is a DAG (Directed Acyclic Graph) or not. If so, we can finish all courese (should return True).
 
-Time Complexity: ![O(V + E)](<https://latex.codecogs.com/svg.image?\inline&space;O(V + E)>), Space Complexity: ![O(V + E)](<https://latex.codecogs.com/svg.image?\inline&space;O(V + E)>), where V is the total number of courses and E is the total number of prerequisites.
+Time Complexity: $O(V+E)$, Space Complexity: $O(V+E)$, where V is the total number of courses and E is the total number of prerequisites.

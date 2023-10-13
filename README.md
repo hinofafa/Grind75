@@ -95,23 +95,23 @@ Categories:
 
 ### Binary Search Tree
 
--   [ ] [Binary Search](https://leetcode.com/problems/binary-search): [Solution](/Binary%20Search/704-BinarySearch/)
--   [ ] [First Bad Version](https://leetcode.com/problems/first-bad-version): [Solution](/Binary%20Search/278-FirstBadVersion/)
--   [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array): [Solution](/Binary%20Search/33-SearchinRotatedSortedArray/)
--   [ ] [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store): [Solution](/Binary%20Search/981-TimeBasedKey-ValueStore/)
--   [ ] [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)[Solution](/Binary%20Search/1235-MaximumProfitinJobScheduling/)
+-   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Binary Search](https://leetcode.com/problems/binary-search): [Solution](/Binary%20Search/704-BinarySearch/)
+-   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [First Bad Version](https://leetcode.com/problems/first-bad-version): [Solution](/Binary%20Search/278-FirstBadVersion/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array): [Solution](/Binary%20Search/33-SearchinRotatedSortedArray/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store): [Solution](/Binary%20Search/981-TimeBasedKey-ValueStore/)
+-   [ ] ![#ff0000](https://placehold.co/1x1/ff0000/ff0000.png) [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)[Solution](/Binary%20Search/1235-MaximumProfitinJobScheduling/)
 
 ---
 
 ### Graph
 
--   [ ] [Flood Fill](https://leetcode.com/problems/flood-fill): [Solution](/Graph/733-FloodFill/)
--   [ ] [01 Matrix](https://leetcode.com/problems/01-matrix): [Solution](/Graph/542-01Matrix/)
--   [ ] [Clone Graph](https://leetcode.com/problems/clone-graph): [Solution](/Graph/133-CloneGraph/)
--   [ ] [Course Schedule](https://leetcode.com/problems/course-schedule): [Solution](/Graph/207-CourseSchedule/)
--   [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands): [Solution](/Graph/200-NumberofIslands/)
--   [ ] [Rotting Oranges](https://leetcode.com/problems/rotting-oranges): [Solution](/Graph/994-RottingOranges/)
--   [ ] [Accounts Merge](https://leetcode.com/problems/accounts-merge): [Solution](/Graph/721-AccountsMerge/)
+-   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Flood Fill](https://leetcode.com/problems/flood-fill): [Solution](/Graph/733-FloodFill/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [01 Matrix](https://leetcode.com/problems/01-matrix): [Solution](/Graph/542-01Matrix/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Clone Graph](https://leetcode.com/problems/clone-graph): [Solution](/Graph/133-CloneGraph/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Course Schedule](https://leetcode.com/problems/course-schedule): [Solution](/Graph/207-CourseSchedule/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Number of Islands](https://leetcode.com/problems/number-of-islands): [Solution](/Graph/200-NumberofIslands/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Rotting Oranges](https://leetcode.com/problems/rotting-oranges): [Solution](/Graph/994-RottingOranges/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Accounts Merge](https://leetcode.com/problems/accounts-merge): [Solution](/Graph/721-AccountsMerge/)
 -   [ ] [Word Search](https://leetcode.com/problems/word-search): [Solution](/Graph/79-WordSearch/)
 -   [ ] [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees): [Solution](/Graph/310-MinimumHeightTrees/)
 -   [ ] [Word Ladder](https://leetcode.com/problems/word-ladder): [Solution](/Graph/127-WordLadder/)
