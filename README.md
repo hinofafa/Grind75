@@ -112,64 +112,64 @@ Categories:
 -   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Number of Islands](https://leetcode.com/problems/number-of-islands): [Solution](/Graph/200-NumberofIslands/)
 -   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Rotting Oranges](https://leetcode.com/problems/rotting-oranges): [Solution](/Graph/994-RottingOranges/)
 -   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Accounts Merge](https://leetcode.com/problems/accounts-merge): [Solution](/Graph/721-AccountsMerge/)
--   [ ] [Word Search](https://leetcode.com/problems/word-search): [Solution](/Graph/79-WordSearch/)
--   [ ] [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees): [Solution](/Graph/310-MinimumHeightTrees/)
--   [ ] [Word Ladder](https://leetcode.com/problems/word-ladder): [Solution](/Graph/127-WordLadder/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Word Search](https://leetcode.com/problems/word-search): [Solution](/Graph/79-WordSearch/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees): [Solution](/Graph/310-MinimumHeightTrees/)
+-   [ ] ![#ff0000](https://placehold.co/1x1/ff0000/ff0000.png) [Word Ladder](https://leetcode.com/problems/word-ladder): [Solution](/Graph/127-WordLadder/)
 
 ---
 
 ### Dynamic Programming
 
--   [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray): [Solution](/Dynamic%20Programming/53-MaximumSubarray/)
--   [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs): [Solution](/Dynamic%20Programming/70-ClimbingStairs/)
--   [ ] [Coin Change](https://leetcode.com/problems/coin-change): [Solution](/Dynamic%20Programming/322-CoinChange/)
--   [ ] [Partition Equal Subset Sum](https://leetcode.com/problems/maximum-subarray): [Solution](/Dynamic%20Programming/416-PartitionEqualSubsetSum/)
--   [ ] [Unique Paths](https://leetcode.com/problems/unique-paths): [Solution](/Dynamic%20Programming/62-UniquePaths/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Maximum Subarray](https://leetcode.com/problems/maximum-subarray): [Solution](/Dynamic%20Programming/53-MaximumSubarray/)
+-   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Climbing Stairs](https://leetcode.com/problems/climbing-stairs): [Solution](/Dynamic%20Programming/70-ClimbingStairs/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Coin Change](https://leetcode.com/problems/coin-change): [Solution](/Dynamic%20Programming/322-CoinChange/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum): [Solution](/Dynamic%20Programming/416-PartitionEqualSubsetSum/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Unique Paths](https://leetcode.com/problems/unique-paths): [Solution](/Dynamic%20Programming/62-UniquePaths/)
 
 ---
 
 ### Binart Search Tree
 
--   [ ] [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree): [Solution](/Binary%20Search%20Tree/235-LowestCommonAncestorofaBinarySearchTree/)
--   [ ] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree): [Solution](/Binary%20Search%20Tree/)
--   [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst): [Solution](/Binary%20Search%20Tree/230-KthSmallestElementinaBST/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree): [Solution](/Binary%20Search%20Tree/235-LowestCommonAncestorofaBinarySearchTree/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree): [Solution](/Binary%20Search%20Tree/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst): [Solution](/Binary%20Search%20Tree/230-KthSmallestElementinaBST/)
 
 ---
 
 ### Hash Table
 
--   [ ] [Ransom Note](https://leetcode.com/problems/ransom-note): [Solution](/Hash%20Table/383-RansomNote/)
+-   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Ransom Note](https://leetcode.com/problems/ransom-note): [Solution](/Hash%20Table/383-RansomNote/)
 
 ---
 
 ### Binary
 
--   [ ] [Add Binary](https://leetcode.com/problems/add-binary): [Solution](/Binary/67-AddBinary/)
+-   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Add Binary](https://leetcode.com/problems/add-binary): [Solution](/Binary/67-AddBinary/)
 
 ---
 
 ### Heap
 
--   [ ] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin): [Solution](/Heap/973-KClosestPointstoOrigin/)
--   [ ] [Task Scheduler](https://leetcode.com/problems/task-scheduler): [Solution](/Heap/621-TaskScheduler/)
--   [ ] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/): [Solution](/Heap/295-FindMedianfromDataStream/)
--   [ ] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/): [Solution](/Heap/23-MergekSortedLists/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin): [Solution](/Heap/973-KClosestPointstoOrigin/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Task Scheduler](https://leetcode.com/problems/task-scheduler): [Solution](/Heap/621-TaskScheduler/)
+-   [ ] ![#ff0000](https://placehold.co/1x1/ff0000/ff0000.png) [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/): [Solution](/Heap/295-FindMedianfromDataStream/)
+-   [ ] ![#ff0000](https://placehold.co/1x1/ff0000/ff0000.png) [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/): [Solution](/Heap/23-MergekSortedLists/)
 
 ### Trie
 
--   [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree): [Solution](</Trie/208-ImplementTrie(PrefixTree)/>)
--   [ ] [Word Break](https://leetcode.com/problems/word-break): [Solution](/Trie/139-WordBreak/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree): [Solution](</Trie/208-ImplementTrie(PrefixTree)/>)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Word Break](https://leetcode.com/problems/word-break): [Solution](/Trie/139-WordBreak/)
 
 ---
 
 ### Recursion
 
--   [ ] [Permutations](https://leetcode.com/problems/permutations): [Solution](/Recursion/46-Permutations/)
--   [ ] [Subsets](https://leetcode.com/problems/subsets): [Solution](/Recursion/78-Subsets/)
--   [ ] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number): [Solution](/Recursion/17-LetterCombinationsofaPhoneNumber/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Permutations](https://leetcode.com/problems/permutations): [Solution](/Recursion/46-Permutations/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Subsets](https://leetcode.com/problems/subsets): [Solution](/Recursion/78-Subsets/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number): [Solution](/Recursion/17-LetterCombinationsofaPhoneNumber/)
 
 ---
 
 ### Matrix
 
--   [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix): [Solution](/Matrix/54-SpiralMatrix/)
+-   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Spiral Matrix](https://leetcode.com/problems/spiral-matrix): [Solution](/Matrix/54-SpiralMatrix/)

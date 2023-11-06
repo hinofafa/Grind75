@@ -1,7 +1,43 @@
 # Word Search
+![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) `Medium`
+
+> Given an m x n grid of characters board and a string word, return true if word exists in the grid. <br><br>
+The word can be constructed from letters of sequentially adjacent cells, where adjacent cells are horizontally or vertically neighboring. The same letter cell may not be used more than once.
+
+
+Example 1:
+
+![alt image](https://assets.leetcode.com/uploads/2020/11/04/word2.jpg)
+
+> Input: board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "ABCCED"\
+Output: true
+
+Example 2:
+
+![alt image](https://assets.leetcode.com/uploads/2020/11/04/word-1.jpg)
+
+> Input: board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "SEE"\
+Output: true
+
+Example 3:
+
+![alt image](https://assets.leetcode.com/uploads/2020/10/15/word3.jpg)
+
+> Input: board = [["A","B","C","E"],["S","F","C","S"],["A","D","E","E"]], word = "ABCB"\
+Output: false
+
+Constraints:
+- m == board.length
+- n = board[i].length
+- $1$ <= m, n <= $6$
+- $1$ <= word.length <= $15$
+- board and word consists of only lowercase and uppercase English letters.
+ 
+Follow up: Could you use search pruning to make your solution faster with a larger board?
 
 Problem can be found in [here](https://leetcode.com/problems/word-search)!
 
+## Solution
 ### [Solution](/Graph/79-WordSearch/solution.py): Depth-First Search
 
 ```python
@@ -43,4 +79,4 @@ def exist(board: List[List[str]], word: str) -> bool:
     return is_word_exist
 ```
 
-Time Complexity: ![O(m*n*3^w)](<https://latex.codecogs.com/svg.image?\inline&space;O(m\cdot&space;n\cdot&space;3^w)>), Space Complexity: ![O(m*n)](<https://latex.codecogs.com/svg.image?\inline&space;O(m\cdot&space;n)>), where m is the number of row, n is the number of column, and w is the length of word.
+Time Complexity: $O(m*n*3^w)$, Space Complexity: $O(m*n)$, where m is the number of row, n is the number of column, and w is the length of word.

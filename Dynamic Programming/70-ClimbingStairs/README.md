@@ -1,4 +1,29 @@
 # Climbing Stairs
+![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) `Easy`
+
+> You are climbing a staircase. It takes n steps to reach the top. <br><br>
+Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?
+
+
+Example 1:
+
+> Input: n = 2\
+Output: 2\
+Explanation: There are two ways to climb to the top.\
+1. 1 step + 1 step\
+2. 2 steps
+
+Example 2:
+
+> Input: n = 3\
+Output: 3\
+Explanation: There are three ways to climb to the top.\
+1. 1 step + 1 step + 1 step\
+2. 1 step + 2 steps\
+3. 2 steps + 1 step
+
+Constraints:
+- 1 <= n <= 45
 
 Problem can be found in [here](https://leetcode.com/problems/climbing-stairs)!
 
@@ -28,4 +53,4 @@ class Solution:
 
 Explanation: Basically, it is a Fibonacci sequence. I just use memoization to optimize time complexity.
 
-Time Complexity: ![O(n)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>), Space Complexity: ![O(n)](<https://latex.codecogs.com/svg.image?\inline&space;O(n)>), where n is value of $n$ steps to climb.
+Time Complexity: $O(n)$, Space Complexity: $O(n)$, where n is value of $n$ steps to climb.
