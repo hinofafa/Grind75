@@ -10,7 +10,7 @@ Categories:
 ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) `Medium` 
 ![#ff0000](https://placehold.co/1x1/ff0000/ff0000.png) `Hard` 
 
-##### Problem Solved: 1 / 75
+##### Problem Solved: 2 / 75
 
 -   [ ] [Array](#array) (11)
 -   [ ] [Stack](#stack) (7)
@@ -31,7 +31,7 @@ Categories:
 ### Array
 
 -   [X] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Two Sum](https://leetcode.com/problems/two-sum): [Solution](/Array/1-TwoSum)
--   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock): [Solution](/Array/121-BestTimetoBuyandSellStock/) 
+-   [X] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock): [Solution](/Array/121-BestTimetoBuyandSellStock/) 
 -   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Contains Duplicate](https://leetcode.com/problems/contains-duplicate): [Solution](/Array/217-ContainsDuplicate/)
 -   [ ] ![#00ff00](https://placehold.co/1x1/00ff00/00ff00.png) [Majority Element](https://leetcode.com/problems/majority-element): [Solution](/Array/169-MajorityElement/)
 -   [ ] ![#ffa500](https://placehold.co/1x1/ffa500/ffa500.png) [Insert Interval](https://leetcode.com/problems/insert-interval): [Solution](/Array/57-InsertInterval/)
